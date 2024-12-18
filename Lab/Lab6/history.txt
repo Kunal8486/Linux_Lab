@@ -1,0 +1,517 @@
+    1  ps
+    2  where is chsh
+    3  whereis chsh
+    4  cat /etc/shells
+    5  sudo chsh -s /bin/bash kunal
+    6  ps
+    7  su
+    8  #!/bin/bash
+    9  echo Hello
+   10  #! /bin/bash
+   11  echo `date`
+   12  cat first.sh
+   13  ls first.sh
+   14  vi first.sh
+   15  date
+   16  time
+   17  ls
+   18  cd Desktop
+   19  cd Lab
+   20  dir
+   21  cd Lab4
+   22  dir
+   23  la -l
+   24  ls -l
+   25  chmode u+x
+   26  chmod u+x
+   27  chmod u+x firsh.sh
+   28  dir
+   29  chmod -l 
+   30  chmod -
+   31  chmod u+x first.sh
+   32  ls -l
+   33  ./firsh.sh
+   34  ./first.sh
+   35  cat first.sh
+   36  vi firsh.sh
+   37  vi first.sh
+   38  ./ firsh.sh
+   39  ./first.sh
+   40  cat first.sh
+   41  ./first.sh
+   42  chmod u+x Lab4.sh
+   43  cd Dessktop
+   44  cd ~/Dessktop
+   45  cd ~/Desktop
+   46  chmod u+x Lab4.sh
+   47  cd Lab
+   48  dir
+   49  cd Lab4
+   50  chmod u+x Lab4.sh
+   51  ls -l
+   52  cat first.sh
+   53  ./ Lab4.sh
+   54  ./Lab4.sh
+   55  ps
+   56  ./Lab4.sh
+   57  cat first.sh
+   58  ./Lab4.sh
+   59  ./ Lab4.sh
+   60  cat Lab4.sh
+   61  ./Lab4.sh
+   62  cd ~/Desktop/Lab/Lab4
+   63  ./Lab4.sh
+   64  hostname
+   65  ./Lab4.sh
+   66  -e ~/Desktop
+   67  dir
+   68  cd ..
+   69  dir
+   70  cd usr
+   71  dir
+   72  cd bin
+   73  dir
+   74  dir *bas
+   75  dir *sh
+   76  bash
+   77  cd ..
+   78  restart
+   79  restartd
+   80  clear
+   81  date
+   82  cd ~/Desktop/Lab/Lab4
+   83  dir
+   84  ./Lab4.sh
+   85  bash Lab4.sh
+   86  cat bashrc
+   87  cat .bashrc
+   88  clear
+   89  bash Lab4.sh
+   90  echo "Hello $bas"
+   91  echo "Hello $cd"
+   92  echo "Hello $~/cd"
+   93  bash Lab4.sh
+   94  chmod u+x name.sh
+   95  ./name.sh Kunal
+   96  ./name.sh Kunal Kumar
+   97  cat name.sh
+   98  ./name.sh Kunal Kumar
+   99  ./name.sh Kunal Kumar Nirupam
+  100  bash Lab4.sh myFile.csv
+  101  ps
+  102  cd ~/Desktop/Lab/Lab4
+  103  man ./Lab4.sh
+  104  echo $shell
+  105  echo $shells
+  106  shell
+  107  shells
+  108  echo shell
+  109  echo shells
+  110  echo $shells
+  111  cat Lab4.sh
+  112  vi Lab4.sh
+  113  cat Lab4.sh
+  114  ./Lab4sh
+  115  ./Lab4.sh
+  116  gedit
+  117  cd ~/Desktop/Lab/Lab4
+  118  dir
+  119  sort myFile.csv
+  120  uniq -d myFile.csv
+  121  cat myFile.txt
+  122  cat myFile.csv
+  123  uniq myFile.csv
+  124  sort myFile.csv
+  125  # one more example
+  126  cmp myFile.csv first.sh
+  127  cmp myFile.csv myFile333.sh
+  128  whereis cmp
+  129  man cmp
+  130  man diff
+  131  tr 'a-z' 'A-Z' first.sh
+  132  tr 'a-z' 'A-Z'<first.sh
+  133  cat first.sh
+  134  tr -d / <first.sh
+  135  tr -d / <first.sh >first2.txt
+  136  ./first.sh
+  137  ls-l | first.sh
+  138  ls-l| first.sh
+  139  ls-l
+  140  ls -l | first.sh
+  141  ls -l |first.sh
+  142  ls -l |cut -d'' -f1
+  143  ls -l |cut -d' ' -f1
+  144  cat passwd
+  145  cd..
+  146  cd ..
+  147  cd  .
+  148  cd /
+  149  cd root
+  150  cd ~/root
+  151  sudo apt install rufus
+  152  sudo apt install https://github.com/pbatard/rufus
+  153  sudo apt install python3
+  154  sudo apt install python-pip
+  155  sudo apt install python3-pip
+  156  clear
+  157  pip install tkinter
+  158  sudo pip install tkinter
+  159  cd [200~import sys
+  160  import os
+  161  from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, 
+  162  from PyQt5.QtCore import QProcess
+  163  class AutoSysGuardGUI(QMainWindow):
+  164  clear
+  165  cd ..
+  166  clear 
+  167  cd /media/kunal/
+  168  dir
+  169  cd ./DE41-8946/
+  170  dir
+  171  cd ./AutoSysGuard/Scripts/Networks/
+  172  dir
+  173  chmod u+x arp_spoofing_detection.sh  firewall_config.sh  network_traffic_monitor.sh  port_scan.sh  ssh_hardening.sh 
+  174  ls -l
+  175  cd..
+  176  cd ..
+  177  dir
+  178  sudo python3 autosysguard.py 
+  179  sudo python3 ./autosysguard.py 
+  180  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  181  cd Scripts/Networks/
+  182  sudo chmod +x arp_spoofing_detection.sh
+  183  sudo python3 ./autosysguard.py 
+  184  cd ..
+  185  sudo python3 ./autosysguard.py 
+  186  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  187  sudo python3 ./autosysguard.py 
+  188  sudo apt-get install arp-scan
+  189  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  190  sudo apt install vlc
+  191  clear
+  192  pip install tkinter
+  193  pip install pymaths
+  194  clear
+  195  top
+  196  clear
+  197  cd ..
+  198  dir
+  199  clear
+  200  dir
+  201  cd media
+  202  dir
+  203  cd kunal
+  204  di
+  205  fri
+  206  dir
+  207  clear
+  208  cd ..
+  209  clear
+  210  echo Kunal
+  211  clear
+  212  sudo tee echo Kunal >> hello.txt
+  213  sudo tee echo Kunal>>hhello.txt
+  214  tee echo Kunal>>hhello.txt
+  215  tee $echo Kunal>>hhello.txt
+  216  clear
+  217  clr screen
+  218  virtualbox
+  219  sudo apt insta;; vboxdrv
+  220  sudo apt install vboxdrv
+  221  sudo apt install virtualbox
+  222  cd Desktop
+  223  dir
+  224  cd home
+  225  cd Desktop
+  226  dir
+  227  cd kunal
+  228  dir
+  229  cd Desktop/
+  230  dir
+  231  cd Lab/
+  232  dir
+  233  cd Lab4/
+  234  dir
+  235  ./Lab4.sh
+  236  ./Lab4.sh 
+  237  sudo ./Lab4.sh 
+  238  ./Lab4_2.sh 
+  239  sudo ./Lab4_2.sh 
+  240  sudo ./Lab4_2.sh
+  241  ./Lab4_2.sh
+  242  clear
+  243  dir
+  244  ./Lab4_2.sh
+  245  chmod u+x ./Lab4_2.sh
+  246  ./Lab4_2.sh
+  247  ./Lab4
+  248  ./Lab4.sh
+  249  ./Lab4.sh /home
+  250  ./Lab4_2.sh /home
+  251  ./Lab4_2.sh /home/kunal/Desktop
+  252  ./Lab4_2.sh 
+  253  ./Lab4_2.sh /home
+  254  cat ./Lab4_2.sh
+  255  ./Lab4_2.sh /home
+  256  ./Lab4_2.sh 
+  257  ./Lab4_2.sh /home
+  258  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  259  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  260  sudo /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  261  /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  262  sudo /bin/python /media/kunal/DE41-8946/AutoSysGuard/autosysguard.py
+  263  ls -l
+  264  ls
+  265  ls -l
+  266  clear
+  267  ls
+  268  cd Desktop/
+  269  ls
+  270  cd Lab
+  271  lis
+  272  ls
+  273  cd Lab4/
+  274  ls
+  275  chmod +x Q5.sh 
+  276  ./Q5.sh 
+  277  ./Q5.sh Hello
+  278  ./Q5.sh 
+  279  ./Q5.sh Q5.sh 
+  280  chmod +x Q7.sh
+  281  ls -l
+  282  ./Q7.sh
+  283  ./Q7.sh 
+  284  ./Q7.sh /home
+  285  ./Q7_Approch2.sh
+  286  chmod +x Q7_Approch2.sh
+  287  ./Q7_Approch2.sh
+  288  ./Q7.sh Q7.sh Q6.sh
+  289  ./Q7.sh Q7.sh
+  290  ./Q7.sh 
+  291  ./Q7.sh Hello Q7.sh
+  292  ./Q7.sh Q7.sh Q6.sh
+  293  ./Q7.sh Q7.sh Hello
+  294  ./Q7.sh Q7.sh Hello Q6.sh Lab4.sh
+  295  chmod 
+  296  chmod +x Q8.sh Q9.sh Q10.sh 
+  297  ls -l
+  298  ./Q8.sh names.txt
+  299  ./Q9.sh test1 test2 test3
+  300  ./Q10.sh
+  301  ./Q9.sh test1 test2 test3
+  302  ./Q9.sh test1.txt test2.txt test3.txt
+  303  sudo apt install vboxdrv
+  304  sudo apt install vboxnetflt
+  305  ps -aux
+  306  ps -aux | grep "bash"
+  307  ps
+  308  bash
+  309  kate
+  310  clearr
+  311  clear
+  312  virtualbox
+  313  vboxdrv
+  314  virtualbox-dkms
+  315  chmod +x Q8_CW.sh 
+  316  ./Q8_CW.sh name.csv
+  317  ./Q8_CW.sh 
+  318  ./Q8_CW.sh name.csv
+  319  cd ..
+  320  dir
+  321  ls
+  322  cd Lab5
+  323  ls
+  324  ./awk_example.sh 
+  325  cd ..
+  326  cd Lab4
+  327  ./Q8_CW.sh name.csv
+  328  bc
+  329  chmod +x bc_example.sh 
+  330  ./bc_example.sh 
+  331  awk
+  332  ./bc_example.sh 
+  333  chmod +x awk_example.sh 
+  334  ./awk_example.sh 
+  335  ls | wc -l
+  336  ls 
+  337  ls | wc -l
+  338  cd..
+  339  cd ..
+  340  man wc
+  341  /bin/python /media/kunal/Ventoy/Pendrive/AutoSysGuard/autosysguard.py
+  342  sudo /bin/python /media/kunal/Ventoy/Pendrive/AutoSysGuard/autosysguard.py
+  343  /bin/python /media/kunal/Ventoy/Pendrive/AutoSysGuard/Scripts/Backup/backup.py
+  344  pip install QProcess
+  345  pip install PyQt5
+  346  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  347  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  348  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  349  sudo chmod +x 
+  350  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  351  sudo chmod +x ./AutoSysGuard/Maintenance/backup.sh
+  352  sudo chmod +x ./AutoSysGuard/Scripts/Maintenance/backup.sh
+  353  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  354  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  355  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  356  sudo chmod +x ./AutoSysGuard/Scripts/Maintenance/backup.sh
+  357  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  358  cd AutoSysGuard/
+  359  dir
+  360  cd Scripts/Maintenance/
+  361  dir
+  362  cdmod +x system_backup.sh 
+  363  sudo cdmod +x system_backup.sh 
+  364  sudo chmod +x system_backup.sh 
+  365  ls -l
+  366  ./system_backup.sh 
+  367  sudo ./system_backup.sh 
+  368  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  369  cd ..
+  370  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  371  ./AutoSysGuard/Scripts/Maintenance/system_backup.sh
+  372  sudo ./AutoSysGuard/Scripts/Maintenance/system_backup.sh
+  373  username
+  374  who am i
+  375  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/audits.py
+  376  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/audits.py
+  377  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  378  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  379  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/audits.py
+  380  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/Audit Scripts/createdir.py"
+  381  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/audits.py
+  382  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Audits/Audit Scripts/createdir.py"
+  383  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/autosysguard.py
+  384  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/main.py
+  385  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/main.py
+  386  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/audits.py"
+  387  sudo /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/audits.py"
+  388  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/makedir.py"
+  389  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/makedir.py"/bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/makedir.py"
+  390  /bin/python "/home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/Scripts/Security Checks/Audits/makedir.py"
+  391  chmod +x makedir.sh 
+  392  ./makedir.sh
+  393  sudo ./makedir.sh
+  394  sudo rm *ensure
+  395  sudo rm ensure*
+  396  sudo rm -r ensure*
+  397  sudo ./makedir.sh
+  398  sudo rm -r ensure*
+  399  sudo ./makedir.sh
+  400  sudo rm -r ensure*
+  401  sudo rm -r 1*
+  402  sudo rm -r 2*
+  403  sudo rm -r 3*
+  404  sudo rm -r 4*
+  405  sudo rm -r 5*
+  406  sudo rm -r 6*
+  407  python3 ./makedir.py
+  408  /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/main.py
+  409  sudo /bin/python /home/kunal/Desktop/Git/AutoSysGuard/AutoSysGuard/main.py
+  410  gedit
+  411  ls
+  412  whereis  cd
+  413  type cd
+  414  type ls
+  415  type cat
+  416  type ls -l
+  417  type ls --color=auto
+  418  type ls
+  419  type man
+  420  clear
+  421  type man
+  422  ls /usr/bin/man
+  423  ls
+  424  cd /usr/bin/man
+  425  cd /usr/bin/
+  426  dir
+  427  cls *man
+  428  ls *man
+  429  ls -l *man
+  430  gedit man
+  431  file man
+  432  hexedit man
+  433  hexedit
+  434  sudo apt --fix-broken install
+  435  hexedit
+  436  hexedit man
+  437  man hexedit
+  438  clear
+  439  difr
+  440  dir
+  441  ls
+  442  file mount
+  443  cd ..
+  444  cd Desktop
+  445  cd ~/desktop
+  446  cd /home/kunal/desktop/lab
+  447  cd /home/kunal/desktop
+  448  cd ~/home/kunal/desktop
+  449  ls
+  450  rm -d *1
+  451  rm -d 1*
+  452  sudo rm -d 1*
+  453  dir
+  454  sudo rm -d 2*
+  455  sudo rm -d 3*
+  456  sudo rm -d 4*
+  457  sudo rm -d 5*
+  458  sudo rm -d 6*
+  459  dir
+  460  sudo rm -d Security_Audit
+  461  ls
+  462  cd home
+  463  ls
+  464  cd kuna
+  465  cd ddesktop
+  466  cd desktop
+  467  dir
+  468  cd kuna;
+  469  cd kunal
+  470  ls
+  471  cd Desktop
+  472  ls
+  473  cd Lab
+  474  ls
+  475  cd Lab5
+  476  ls
+  477  gedit linebyline.sh
+  478  clear
+  479  chmod +x linebyline.sh 
+  480  gedit file1.sh filw2.sh
+  481  rm file1.sh filw.sh
+  482  rm -d file1.sh filw.sh
+  483  file1.sh filw.sh
+  484  file1.sh
+  485  rm ./file1.sh ./filw.sh
+  486  rm ./file1.sg
+  487  rm ./file1.sh
+  488  ./linebyline.sh file1.txt file2.sh
+  489  ./linebyline.sh file1.txt file2.txt
+  490  ./linebyline.sh file1.txt file2.sh
+  491  gedit file1.txt
+  492  ./linebyline.sh file1.txt file2.sh
+  493  gedit file1.txt
+  494  ./linebyline.sh file1.txt file2.sh
+  495  virtualbox
+  496  sudo apt uninstall virtualbox
+  497  kate
+  498  kate file2.txt
+  499  ./linebyline.sh file1.txt file2.txt
+  500  cd ..
+  501  cd Lab4
+  502  ./Q9.sh 
+  503  ./Q9.sh ./test1.txt ./test2.txt ./test3.txt 
+  504  ./Q9.sh 
+  505  ./Q9.sh ./test1.txt ./test2.txt ./test3.txt 
+  506  cat test1.txt 
+  507  cat test2.txt 
+  508  cat test3.txt 
+  509  clear
+  510  cd ..
+  511  mkdir Lab5
+  512  mkdir Lab 5
+  513  mkdir Lab6
+  514  cd Lab6
+  515  Q1.sh
+  516  gedit Q1.sh
+  517  history>>history.txt

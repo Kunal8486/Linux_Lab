@@ -1,0 +1,6 @@
+total 248
+-rw-rw-r-- 1 kunal kunal     33 Oct 25 09:59 Hello.txt
+-rw-rw-r-- 1 kunal kunal 243538 Oct 25 08:50 Lab8.pdf
+-rw-rw-r-- 1 kunal kunal      0 Oct 25 09:16 Q1.sh
+-rw-rw-r-- 1 kunal kunal     32 Oct 25 09:59 moviefileName.txt
+-rw-rw-r-- 1 kunal kunal      0 Oct 25 10:02 temp.txt

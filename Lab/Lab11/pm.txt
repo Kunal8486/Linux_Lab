@@ -1,0 +1,6 @@
+AtalBihari Vajpayee 60 22 0.732
+HDDeve Gowda 58 24 0.707
+InderKumar Gujral 51 31 0.622
+AtalBihari Vajpayee 49 33 0.598
+Manmohan Singh 48 34 0.585
+Narendra Modi 23 21 0.897
